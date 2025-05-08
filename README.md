@@ -1,2 +1,2 @@
-# LinearRegressionC
-Implementation of linear regression with 3 features dataset on C.
+# Logistic Regressi on C
+Implementation of binary classification with logistic regression in C for 3 features dataset.
